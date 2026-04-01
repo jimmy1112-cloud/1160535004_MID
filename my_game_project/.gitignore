@@ -1,0 +1,5 @@
+venv/
+env/
+my_game_project/venv/
+__pycache__/
+.env
